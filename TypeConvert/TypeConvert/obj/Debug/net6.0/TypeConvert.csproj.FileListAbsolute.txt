@@ -1,0 +1,15 @@
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\bin\Debug\net6.0\TypeConvert.exe
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\bin\Debug\net6.0\TypeConvert.deps.json
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\bin\Debug\net6.0\TypeConvert.runtimeconfig.json
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\bin\Debug\net6.0\TypeConvert.dll
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\bin\Debug\net6.0\TypeConvert.pdb
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.csproj.AssemblyReference.cache
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.AssemblyInfoInputs.cache
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.AssemblyInfo.cs
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.csproj.CoreCompileInputs.cache
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.dll
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\refint\TypeConvert.dll
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.pdb
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\TypeConvert.genruntimeconfig.cache
+C:\Users\bs780\Desktop\C# Practice\TypeConvert\TypeConvert\obj\Debug\net6.0\ref\TypeConvert.dll

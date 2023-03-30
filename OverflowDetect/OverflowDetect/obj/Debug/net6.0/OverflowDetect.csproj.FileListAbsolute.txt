@@ -1,0 +1,15 @@
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\bin\Debug\net6.0\OverflowDetect.exe
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\bin\Debug\net6.0\OverflowDetect.deps.json
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\bin\Debug\net6.0\OverflowDetect.runtimeconfig.json
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\bin\Debug\net6.0\OverflowDetect.dll
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\bin\Debug\net6.0\OverflowDetect.pdb
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.csproj.AssemblyReference.cache
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.AssemblyInfoInputs.cache
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.AssemblyInfo.cs
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.csproj.CoreCompileInputs.cache
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.dll
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\refint\OverflowDetect.dll
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.pdb
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\OverflowDetect.genruntimeconfig.cache
+C:\Users\bs780\Desktop\C# Practice\OverflowDetect\OverflowDetect\obj\Debug\net6.0\ref\OverflowDetect.dll

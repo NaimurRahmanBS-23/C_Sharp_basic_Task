@@ -1,0 +1,15 @@
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.csproj.AssemblyReference.cache
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.AssemblyInfoInputs.cache
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.AssemblyInfo.cs
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.csproj.CoreCompileInputs.cache
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\bin\Debug\net6.0\AllDataType.exe
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\bin\Debug\net6.0\AllDataType.deps.json
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\bin\Debug\net6.0\AllDataType.runtimeconfig.json
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\bin\Debug\net6.0\AllDataType.dll
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\bin\Debug\net6.0\AllDataType.pdb
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.dll
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\refint\AllDataType.dll
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.pdb
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\AllDataType.genruntimeconfig.cache
+C:\Users\bs780\Desktop\C# Practice\AllDataType\AllDataType\obj\Debug\net6.0\ref\AllDataType.dll

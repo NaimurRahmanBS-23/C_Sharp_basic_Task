@@ -1,0 +1,15 @@
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\bin\Debug\net6.0\Conditional.exe
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\bin\Debug\net6.0\Conditional.deps.json
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\bin\Debug\net6.0\Conditional.runtimeconfig.json
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\bin\Debug\net6.0\Conditional.dll
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\bin\Debug\net6.0\Conditional.pdb
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.csproj.AssemblyReference.cache
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.AssemblyInfo.cs
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.dll
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\refint\Conditional.dll
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.pdb
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\Conditional.genruntimeconfig.cache
+C:\Users\bs780\Desktop\C# Practice\Conditional\Conditional\obj\Debug\net6.0\ref\Conditional.dll
